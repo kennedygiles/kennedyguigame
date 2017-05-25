@@ -8,6 +8,9 @@ objective:
       to pause press the 'P' key
 notes:
   the speed of the blocks change as time goes on
+  
+  
+  
   if you hit the corners of the screen you loose
   
 GOODLUCK!!!
